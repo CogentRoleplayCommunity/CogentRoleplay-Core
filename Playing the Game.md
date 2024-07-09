@@ -34,7 +34,7 @@ If you don’t have a character concept in mind already, or are struggling to th
 
 Start by getting to know your game's setting, to understand what Characters will best fit in your game. Every setting has its own archetypes, which can be a helpful guide to which options for a Character will fit well within the game's world. For instance, the five most common classes in Dungeons and Dragons form its archetypes, the Fighter, Wizard, Thief, Bard, and Cleric.
 
-If you’re feeling stuck, these archetypes are a good starting point.  You can start by choosing one of the archetypes you feel drawn to, but keep in mind that some of the greatest ideas present a twist on the classic archetype. For example, instead the usual Thief with a tragic background, perhaps your character is a well-respected noble with a very privileged upbringing who uses the abilities of the Theif class to spy for their nation. 
+If you’re feeling stuck, these archetypes are a good starting point.  You can start by choosing one of the archetypes you feel drawn to, but keep in mind that some of the greatest ideas present a twist on the classic archetype. For example, instead the usual Thief with a tragic background, perhaps your character is a well-respected noble with a very privileged upbringing who uses the abilities of the Thief class to spy for their nation. 
 
 Write down this Character Concept on your Character Sheet.
 
