@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "5c696996d390771e",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d482ae71a85e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af5bf54a6eb579bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playing the Game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Playing the Game"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a24794a2bcfd96c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ebc8fe2f11f0008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running the Game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Running the Game"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6438603f24336b72",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5065e0f6ef0949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250a231eb379710a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "45cbab9a40141535",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68abd817d7e104d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfc0de1a3f6e6907",
+    "type": "split",
+    "children": [
+      {
+        "id": "09b80fb758fa7bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cee88692ed7a4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Running the Game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Running the Game"
+            }
+          },
+          {
+            "id": "c2e1f9982c7e8cef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Running the Game.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Running the Game"
+            }
+          },
+          {
+            "id": "fe6d4cfe561992ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7a7aa8bb1e5dc1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Running the Game.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Running the Game"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ebc8fe2f11f0008",
+  "lastOpenFiles": [
+    "Playing the Game.md",
+    "Running the Game 1.md",
+    "Running the Game.md.md",
+    "Running.md",
+    "Running the Game.md",
+    "CharacterSheet_Dev/Character Sheet Info.md",
+    "Cogent Roleplay - Core Rule Book - (DRAFT) v0.0.1.pdf",
+    "Cogent Community Charter.md",
+    "images/DiceLogo_v_9_June_24.png",
+    "images/DiceLogo_v_3_November_24.png",
+    "images/RtG-InvestigationGrid.png",
+    "images/DiceInjuryLogo_v_9_June_24.png",
+    "images/CogentRoleplayAttribution_Wide.png",
+    "images/CogentRoleplayAttribution_Stacked.png",
+    "CharacterSheet_Dev/CoCoPro V1.0 Skills alt.png",
+    "CharacterSheet_Dev/CoCoPro V1.0 General.png",
+    "CharacterSheet_Dev/CoCoPro V1.0 Skills Blank.png",
+    "CharacterSheet_Dev/CoCoPro V1.0 Skills Blank alt.png",
+    "CharacterSheet_Dev/Backup1/CharacterSheet_Vertv_11_June_24.pdf",
+    "CharacterSheet_Dev/Backup1/CharacterSheet_Vert_bk1.pdf"
+  ]
+}
