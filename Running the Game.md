@@ -242,7 +242,12 @@ Within most stories, magic (or supernatural effects like advanced technology or 
 
 **Magic as a Skill**
 
-This is a good mechanic for a Soft Magic system.  Essentially you have one or more magic Specialisations within a magic using Vocation.  The Narrator would choose the CL based on the precieved difficulty of the act.  In a pure Soft Magic system, the CL should be based on how Naratively relevant the magic use is (ie a mage can't use an open door spell on every single door they come across, that destroys the tension and "fun" of the story).
+This is a good mechanic for a Soft Magic system.  Essentially you have one or more magic Specialisations within a magic using Vocation.  The Narrator would choose the CL based on the precieved difficulty of the act.  In a pure Soft Magic system, the CL should be based on how Naratively relevant the magic use is (ie a mage can't use an open door spell on every single door they come across, that destroys the tension and "fun" of the story).  As a guideline:
+  1. **CL 1:** The magic performed aligns with the Narrative flow (example lighting up a staff in a dark cave, or sundering a bridge after all Allies have crossed as they are chased by a monster).
+  1. **CL 2:** The magic performed is narratively aligned, but could be performed by mundane means (example using a spell to shoot an enemy instead of the crossbow).
+  1. **CL 3:** The magic performed is almost narratively aligned (example using a spell to open a lock that has a puzzle inscribed on it). 
+  1. **CL 4:** The magic performed is not narratively aligned (example using a spell to bypass a challenge put forward to test the players, like lifting everyone up a steep cliff). 
+  1. **CL 5:** The magic performed does not make narrative sense, or details the Narrative flow (example using a spell to instantly stop the big boss' heart and instantly killing them). 
 
 *Drain Mechanic*
 
