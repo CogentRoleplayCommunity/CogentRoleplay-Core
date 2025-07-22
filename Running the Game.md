@@ -249,7 +249,7 @@ This is a good mechanic for a Soft Magic system.  Essentially you have one or mo
   1. **CL 4:** The magic performed is not narratively aligned (example using a spell to bypass a challenge put forward to test the players, like lifting everyone up a steep cliff). 
   1. **CL 5:** The magic performed does not make narrative sense, or details the Narrative flow (example using a spell to instantly stop the big boss' heart and instantly killing them). 
 
-*Drain Mechanic*
+**Drain Mechanic**
 
 This mechanic works best with harder Magic systems, but can be used with either Soft or Hard Magic systems.  The Drain Mechanic assumes that Magic is a direct cost of the caster (as represented by injuries).  Each time a spell is cast, the magic user is attempting to resist drain and keep concentration on the spell rather than focusing on the effects of the spell.  To cast a spell the caster must:
   1. **Select a Spell:** In a Hard Magic system, you will have a Grimoire (book of spells) similar to an arsenal of weapons for a fighter.  The caster will choose the spell they wish to cast, and lookup the Drain Cost.  In a Soft Magic system, use the *Magic as a Skill* chart as the Drain Cost.
@@ -257,3 +257,8 @@ This mechanic works best with harder Magic systems, but can be used with either 
   1. **Make the Spellcasting Roll:** Using standard rules, make your Combat Roll VS the Drain Cost.
   1. **Resolve Drain:** Narrative Success means the spell is cast with no effect.  Narrative Failure means the Caster takes an Injury (equal to the Narrative Failure).  The Injury is a Mana Burn Injury, that can naturally heal (With natural healing reducing Injury Levels by -1 until the injury is fully healed).
 
+**Magic as Equipment**
+
+This is a good mechanic for a Hard Magic system, and is a common mechanic used in a lot of TTRPGs.  The core mechanic is that spellcasters need to obtain and use spells using the same game mechanics as ammunition for ranged weapons.  Casting a spell (regardless if it is successfully cast or not), consumes the spell and removes it from the Character's inventory.  The number of spells carried, and how spells are purchased must be defined by the setting.  
+
+* **Spell Slots:** Spell slots are predefined allocations that a spellcaster has as part of their Vocation.  When a spell is cast, the spell slot is used up, and can't be reused until specific conditions are met (typically a full night rest).
