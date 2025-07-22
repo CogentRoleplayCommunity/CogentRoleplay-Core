@@ -251,4 +251,9 @@ This is a good mechanic for a Soft Magic system.  Essentially you have one or mo
 
 *Drain Mechanic*
 
-An alternative to *Magic as a Skill* is the drain mechanic.  Each spell (or spell like effect) has an IL (Injury Level).  Casting a spell could cause an Injury.  If you fall unconscience, the spell fails.
+This mechanic works best with harder Magic systems, but can be used with either Soft or Hard Magic systems.  The Drain Mechanic assumes that Magic is a direct cost of the caster (as represented by injuries).  Each time a spell is cast, the magic user is attempting to resist drain and keep concentration on the spell rather than focusing on the effects of the spell.  To cast a spell the caster must:
+  1. **Select a Spell:** In a Hard Magic system, you will have a Grimoire (book of spells) similar to an arsenal of weapons for a fighter.  The caster will choose the spell they wish to cast, and lookup the Drain Cost.  In a Soft Magic system, use the *Magic as a Skill* chart as the Drain Cost.
+  1. **Declare your Spellcasting:** As part of the Declaration Phase, declare the spell, the target of the spell, and the desired effect.  If requested by the Narrator, also provide the Drain Cost.
+  1. **Make the Spellcasting Roll:** Using standard rules, make your Combat Roll VS the Drain Cost.
+  1. **Resolve Drain:** Narrative Success means the spell is cast with no effect.  Narrative Failure means the Caster takes an Injury (equal to the Narrative Failure).  The Injury is a Mana Burn Injury, that can naturally heal (With natural healing reducing Injury Levels by -1 until the injury is fully healed).
+
